@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fn" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--         span{
+            font-weight: bold;
+        }       
+        -->
+    <style>
+        del{
+        color: yellow;
+        background-color: red;        
+        }
+        .gcolor{
+        color: rgb(2, 226, 62);
+        font-weight: bold;
+        }
+        a:link , a:active , a:visited{
+        background-color: transparent;
+        color: red;  
+        text-decoration: none;
+        }
+        a:hover{
+        color: greenyellow;
+        background-color: black;
+        font-size: 18px;
+        }   
+        div{
+            width: 280px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            <picture>
+                <source media="(min-width:400px)" srcset="https://dkstatics-public.digikala.com/digikala-products/c58d546b42034e86b1a0407e3f939a8ff4b44292_1646048127.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90">
+                <img src="https://dkstatics-public.digikala.com/digikala-products/142a5d2e747a02fc7be65e08da80463430eeab2c_1646048131.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90" alt="Coll Fans" style="width: 350px;">
+            </picture>
+        </div>
+        <div>
+            <h1>محصول کول پد مخصوص الپ تاپ های کیمینگ شماره 526</h1>
+            <p style="font-size: 12px;">درخواست مرجوع کردن کالا در گروه استند و پایه خنک‌کننده با دلیل "انصراف از خرید" تنها در صورتی قابل تایید است که کالا در شرایط اولیه باشد (در صورت پلمپ بودن، کالا نباید باز شده باشد).
+        </p>
+        </div>
+        <div>
+            <h2>ویژگی ها:</h2>
+            <ul style="list-style-type: square;">
+                <!--    
+                <li> وزن محصول :<span >10گیلو گرم</span></li>
+                <li> اقلام همراه:<span > دفتر چه راهنما</span></li>
+                <li> ارسال :<span > رایگان </span></li>
+                -->
+                <li>
+                    <span> وزن محصول :</span>
+                    <b>10کیلو گرم</b>
+                </li>
+                <li>
+                    <span>اقلام همراه : </span>
+                    <b>دفترچه راهنما</b>
+                </li>
+                <li>
+                    <span>ارسال:</span>
+                    <b>رایگان</b>
+                </li>
+            </ol>
+        </div>
+        <div>
+            <h2><b>قیمت:</b></h2>
+            <del>1,200,000</del>
+            <p class="gcolor">1,000,000تومان</p>
+            <a href="https://www.digikala.com/product/dkp-7971259/%D9%BE%D8%A7%DB%8C%D9%87-%D8%AE%D9%86%DA%A9-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D9%84%D9%BE-%D8%AA%D8%A7%D9%BE-%D8%AA%D8%B3%DA%A9%D9%88-%D9%85%D8%AF%D9%84-gclp-3140/" target="_blank"><q>برای خرید محصول کلیک کنید !</q></a>
+        </div>
+
+    </div>
+
+</body>
+</html>
